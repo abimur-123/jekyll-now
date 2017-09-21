@@ -3,22 +3,20 @@ layout: post
 title: When average doesn't cut it - Simpsons paradox
 ---
 
-
-# **When average doesn't cut it - Simpson's Paradox**
-
 Let's suppose you go to a doctor to consult regarding treatment for your kidney stones. The doctor tells you that you have two options - a state of the art and new clinically approved treatment B and the old traditional treatment A which your grandad probably had. You then proceed to ask the pros and cons of both the treatment and the doctor says, "So a recently conducted study found that treatment A has a higher probability of success and is hence better than treatment B"
 
 I'm sure if you're like most people you say, "I'll go with treatment A, thank you!"
 
-
-![](Borat_thumbs_up.jpg)https://imgflip.com/memetemplate/24895147/Borat-Thumbs-Up
+![_Thumbsup]({{ site.baseurl }}/images/Borat_thumbs_up.jpg)
+Image sourced from https://imgflip.com/memetemplate/24895147/Borat-Thumbs-Up
 
 But then your doctor stops you to say, "The same study also observed which treatment worked better depending on whether the patient had large or small kidney stones." Now you're confused if you have large or small kidney stones and proceed to question the doctor regarding the same to which the doctor says, " At the end of the day it actually doesn't matter. The study found treatment B to have a higher probability
 of success when compared to treatment A irrespective of which one you're suffering from."
 
 Now you're confused and left wondering what you just heard/read about.
 
-![](george_tense_optimistic.jpg)https://pbs.twimg.com/profile_images/1606408825/RShea_400x400.jpg
+![_Thumbsup]({{ site.baseurl }}/images/george_tense_optimistic.jpg)
+https://pbs.twimg.com/profile_images/1606408825/RShea_400x400.jpg
 
 Guess what? It's actually true! An actual study that was conducted comparing the success rates of 2 treatments - treatment A, which is the open surgical procedure and treatment B, which is percutaneous nephrolithotomy (small puncture surgery) had the
 following figures -
@@ -87,8 +85,3 @@ The explanation for the Simpson's paradox sounds relatively simple but it is dif
 2. https://plato.stanford.edu/entries/paradox-simpson/
 3. Title inspiration - https://www.brookings.edu/blog/social-mobility-memos/2015/07/29/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/
 4. http://vudlab.com/simpsons/
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
